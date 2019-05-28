@@ -24,7 +24,7 @@ test03(2,3,4)
 g = [lambda a:a*2, lambda b:b*3 ]
 print(g[0](6))
 
-h = [test01,test01]
+h = [test02,test03]
 print(h[0](3,4,5,6))
 
 
